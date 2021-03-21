@@ -1,4 +1,4 @@
-# 100DaysOfSwiftUI
+# 100 Days of SwiftUI
 
 This repository will document my progress of the [`100 Days of SwiftUI`](https://www.hackingwithswift.com/100/swiftui) Course by Paul Hudson.
 
