@@ -12,7 +12,7 @@ Started in March 2021.
 - [x] Day 4 – loops, loops, and more loops
 - [x] Day 5 – functions, parameters, and errors
 - [x] Day 6 – closures part one
-- [ ] Day 7 – closures part two
+- [x] Day 7 – closures part two
 - [ ] Day 8 – structs, properties, and methods
 - [ ] Day 9 – access control, static properties, and laziness
 - [ ] Day 10 – classes and inheritance
