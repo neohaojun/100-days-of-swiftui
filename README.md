@@ -16,7 +16,7 @@ Started in March 2021.
 - [x] Day 8 – structs, properties, and methods
 - [x] Day 9 – access control, static properties, and laziness
 - [x] Day 10 – classes and inheritance
-- [ ] Day 11 – protocols, extensions, and protocol extensions
+- [x] Day 11 – protocols, extensions, and protocol extensions
 - [ ] Day 12 – optionals, unwrapping, and **typecasting**
 
 ## Days 13-15 Consolidation I
