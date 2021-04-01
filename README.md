@@ -21,7 +21,7 @@ Started in March 2021.
 
 ## Days 13-15 Consolidation I
 
-- [ ] Day 13 – Swift review, day one
+- [x] Day 13 – Swift review, day one
 - [ ] Day 14 – Swift review, day two
 - [ ] Day 15 – Swift review, day three
 
