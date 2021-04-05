@@ -28,7 +28,7 @@ Started in March 2021.
 ## Days 16-24 Starting SwiftUI
 
 - [x] Day 16 – Project 1, part one
-- [ ] Day 17 – Project 1, part two
+- [x] Day 17 – Project 1, part two
 - [ ] Day 18 – Project 1, part three
 - [ ] Day 19 – Challenge day
 - [ ] Day 20 – Project 2, part one
