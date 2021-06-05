@@ -2,7 +2,7 @@
 
 This repository will document my progress of the [`100 Days of SwiftUI`](https://www.hackingwithswift.com/100/swiftui) Course by Paul Hudson.
 
-Started in March 2021.
+Started on 20 March 2021, took a break from 6 April to 4 June 2021.
 
 ## Days 1-12 Introduction to Swift
 
@@ -30,7 +30,7 @@ Started in March 2021.
 - [x] Day 16 – Project 1, part one
 - [x] Day 17 – Project 1, part two
 - [x] Day 18 – Project 1, part three
-- [ ] Day 19 – Challenge day
+- [x] Day 19 – Challenge day
 - [ ] Day 20 – Project 2, part one
 - [ ] Day 21 – Project 2, part two
 - [ ] Day 22 – Project 2, part three
