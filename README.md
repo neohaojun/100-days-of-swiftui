@@ -31,7 +31,7 @@ Started on 20 March 2021, took a break from 6 April to 4 June 2021.
 - [x] Day 17 – Project 1, part two
 - [x] Day 18 – Project 1, part three
 - [x] Day 19 – Challenge day
-- [ ] Day 20 – Project 2, part one
+- [x] Day 20 – Project 2, part one
 - [ ] Day 21 – Project 2, part two
 - [ ] Day 22 – Project 2, part three
 - [ ] Day 23 – Project 3, part one
