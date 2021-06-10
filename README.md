@@ -35,7 +35,7 @@ Started on 20 March 2021, took a break from 6 April to 4 June 2021.
 - [x] Day 21 – Project 2, part two
 - [x] Day 22 – Project 2, part three
 - [x] Day 23 – Project 3, part one
-- [ ] Day 24 – Project 3, part two
+- [x] Day 24 – Project 3, part two
 
 ## Day 25: Consolidation II
 
