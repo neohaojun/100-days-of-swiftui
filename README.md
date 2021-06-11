@@ -39,7 +39,7 @@ Started on 20 March 2021, took a break from 6 April to 4 June 2021.
 
 ## Day 25: Consolidation II
 
-- [ ] Day 25 – Milestone: Projects 1-3
+- [x] Day 25 – Milestone: Projects 1-3
 
 ## Days 26-34: Expanding Your Skills
 
