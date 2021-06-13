@@ -44,7 +44,7 @@ Started on 20 March 2021, took a break from 6 April to 4 June 2021.
 ## Days 26-34: Expanding Your Skills
 
 - [x] Day 26 – Project 4, part one
-- [ ] Day 27 – Project 4, part two
+- [x] Day 27 – Project 4, part two
 - [ ] Day 28 – Project 4, part three
 - [ ] Day 29 – Project 5, part one
 - [ ] Day 30 – Project 5, part two
