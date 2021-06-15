@@ -46,7 +46,7 @@ Started on 20 March 2021, took a break from 6 April to 4 June 2021.
 - [x] Day 26 – Project 4, part one
 - [x] Day 27 – Project 4, part two
 - [x] Day 28 – Project 4, part three
-- [ ] Day 29 – Project 5, part one
+- [x] Day 29 – Project 5, part one
 - [ ] Day 30 – Project 5, part two
 - [ ] Day 31 – Project 5, part three
 - [ ] Day 32 – Project 6, part one
